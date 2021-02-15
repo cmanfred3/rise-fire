@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284" height="89" viewBox="0 0 284 89">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 50px;
+        font-family: Merriweather;
+        font-weight: 700;
+      }
+
+      .cls-1 {
+        fill: #0d0d0d;
+      }
+
+      .cls-2 {
+        fill: #fcfcfc;
+      }
+    </style>
+  </defs>
+  <text id="Rise_Fire" data-name="Rise &amp; Fire" class="cls-1" x="10.667" y="59.333">Rise &amp; Fire</text>
+  <text id="Rise_Fire-2" data-name="Rise &amp; Fire" class="cls-2" x="7.667" y="57.333">Rise &amp; Fire</text>
+</svg>

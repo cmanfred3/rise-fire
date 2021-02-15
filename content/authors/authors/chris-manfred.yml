@@ -1,7 +1,6 @@
-name: Thiago Costa
+name: Chris Manfred
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  Living in the Midwest and writing about Big Ten sports.
 avatar: ./avatars/thiago-costa.png
 social:
   - url: https://unsplash.com
@@ -9,3 +8,4 @@ social:
   - url: https://github.com
   - url: https://github.com
   - url: https://github.com
+featured: true

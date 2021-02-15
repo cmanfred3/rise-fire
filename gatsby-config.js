@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Big Ten After Dark`,
+    name: `Big Ten After Dark`,
+    siteUrl: `https://bigtenafterdark.com`,
+    description: `Thoughts on Big Ten Basketball, Football, and Life in the Midwest`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Thoughts on Big Ten Basketball, Football, and Life in the Midwest`,
+      maxWidth: 750,
     },
     social: [
       {
