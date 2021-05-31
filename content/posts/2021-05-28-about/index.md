@@ -10,7 +10,6 @@ excerpt: Michigan is back, Ohio State surges, and Illinois holds on.
 
 ### This is a little about us
 
-<iframe src="https://public.tableau.com/views/BigTenPlayersReturning/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link" width="981" height="864" frameborder="0">
-</iframe>
+<iframe src="https://public.tableau.com/views/BigTenPlayersReturning/Sheet1?:showVizHome=no&:embed=true" width="981" height="864" frameborder="0"></iframe>
 
 <iframe src="https://public.tableau.com/views/ATaleof50Cities/ATaleof50Cities?:embed=y&:display_count=yes&:toolbar=no" width="1004" height="1269" frameborder="0"></iframe>
