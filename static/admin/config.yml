@@ -1,6 +1,6 @@
 backend: # Set up your backend
   name: git-gateway
-  repo: cmanfred3/bigtenafterdark
+  repo: cmanfred3/rise-fire
   branch: master
 
 local_backend: true # Optional if you want to use the local proxy mode
