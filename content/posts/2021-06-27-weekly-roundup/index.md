@@ -38,4 +38,5 @@ JustBombProductions just put out two highlight videos, one for Purdue’s David 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FbkBs3Y6cI0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
 [This piece](https://www.wsj.com/articles/ncaa-college-sports-name-image-likiness-nebraska-11624499101) by The Wall Street Journal covered the name, image, and likeness (NIL) changes and what Nebraska is doing to try and be at the forefront of it. Ironically, it features Bill Moos, the Nebraska AD who decided to announce he’s leaving about a day after this story came out. Whoops.
